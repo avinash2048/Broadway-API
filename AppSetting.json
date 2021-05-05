@@ -1,0 +1,21 @@
+{
+  "Logging": {
+    "LogLevel": {
+      "Default": "Information",
+      "Microsoft": "Warning",
+      "Microsoft.Hosting.Lifetime": "Information"
+    }
+  },
+  "AllowedHosts": "*",
+  "ConnectionStrings": {
+    "DefaultConnection": "data source=Dotnet-Avinish; initial catalog=BroadwayInfosys-API;integrated security=true"
+  },
+  "_jwtTokenConfig": {
+    "secret": "010101010202003030",
+    "issuer": "https://BroadWayapi.com",
+    "audience": "https://BroadWayapi.com",
+    "accessTokenExpiration": 20,
+    "refreshTokenExpiration": 60
+  }
+
+} 
