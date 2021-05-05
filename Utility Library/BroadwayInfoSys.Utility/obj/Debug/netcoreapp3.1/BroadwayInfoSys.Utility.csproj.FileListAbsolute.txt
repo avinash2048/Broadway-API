@@ -1,0 +1,36 @@
+C:\Avinash Working Folder\BroadwayInfoSys\Utility Library\BroadwayInfoSys.Utility\bin\Debug\netcoreapp3.1\BroadwayInfoSys.Utility.deps.json
+C:\Avinash Working Folder\BroadwayInfoSys\Utility Library\BroadwayInfoSys.Utility\bin\Debug\netcoreapp3.1\BroadwayInfoSys.Utility.dll
+C:\Avinash Working Folder\BroadwayInfoSys\Utility Library\BroadwayInfoSys.Utility\bin\Debug\netcoreapp3.1\BroadwayInfoSys.Utility.pdb
+C:\Avinash Working Folder\BroadwayInfoSys\Utility Library\BroadwayInfoSys.Utility\bin\Debug\netcoreapp3.1\BroadwayInfoSys.Domain.dll
+C:\Avinash Working Folder\BroadwayInfoSys\Utility Library\BroadwayInfoSys.Utility\bin\Debug\netcoreapp3.1\BroadwayInfoSys.Domain.pdb
+C:\Avinash Working Folder\BroadwayInfoSys\Utility Library\BroadwayInfoSys.Utility\obj\Debug\netcoreapp3.1\BroadwayInfoSys.Utility.csprojAssemblyReference.cache
+C:\Avinash Working Folder\BroadwayInfoSys\Utility Library\BroadwayInfoSys.Utility\obj\Debug\netcoreapp3.1\BroadwayInfoSys.Utility.AssemblyInfoInputs.cache
+C:\Avinash Working Folder\BroadwayInfoSys\Utility Library\BroadwayInfoSys.Utility\obj\Debug\netcoreapp3.1\BroadwayInfoSys.Utility.AssemblyInfo.cs
+C:\Avinash Working Folder\BroadwayInfoSys\Utility Library\BroadwayInfoSys.Utility\obj\Debug\netcoreapp3.1\BroadwayInfoSys.Utility.csproj.CoreCompileInputs.cache
+C:\Avinash Working Folder\BroadwayInfoSys\Utility Library\BroadwayInfoSys.Utility\obj\Debug\netcoreapp3.1\BroadwayInfoSys.Utility.csproj.CopyComplete
+C:\Avinash Working Folder\BroadwayInfoSys\Utility Library\BroadwayInfoSys.Utility\obj\Debug\netcoreapp3.1\BroadwayInfoSys.Utility.dll
+C:\Avinash Working Folder\BroadwayInfoSys\Utility Library\BroadwayInfoSys.Utility\obj\Debug\netcoreapp3.1\BroadwayInfoSys.Utility.pdb
+C:\Users\Dell\Desktop\BroadwayInfoSys\Utility Library\BroadwayInfoSys.Utility\bin\Debug\netcoreapp3.1\BroadwayInfoSys.Utility.deps.json
+C:\Users\Dell\Desktop\BroadwayInfoSys\Utility Library\BroadwayInfoSys.Utility\bin\Debug\netcoreapp3.1\BroadwayInfoSys.Utility.dll
+C:\Users\Dell\Desktop\BroadwayInfoSys\Utility Library\BroadwayInfoSys.Utility\bin\Debug\netcoreapp3.1\BroadwayInfoSys.Utility.pdb
+C:\Users\Dell\Desktop\BroadwayInfoSys\Utility Library\BroadwayInfoSys.Utility\bin\Debug\netcoreapp3.1\BroadwayInfoSys.Domain.dll
+C:\Users\Dell\Desktop\BroadwayInfoSys\Utility Library\BroadwayInfoSys.Utility\bin\Debug\netcoreapp3.1\BroadwayInfoSys.Domain.pdb
+C:\Users\Dell\Desktop\BroadwayInfoSys\Utility Library\BroadwayInfoSys.Utility\obj\Debug\netcoreapp3.1\BroadwayInfoSys.Utility.csprojAssemblyReference.cache
+C:\Users\Dell\Desktop\BroadwayInfoSys\Utility Library\BroadwayInfoSys.Utility\obj\Debug\netcoreapp3.1\BroadwayInfoSys.Utility.AssemblyInfoInputs.cache
+C:\Users\Dell\Desktop\BroadwayInfoSys\Utility Library\BroadwayInfoSys.Utility\obj\Debug\netcoreapp3.1\BroadwayInfoSys.Utility.AssemblyInfo.cs
+C:\Users\Dell\Desktop\BroadwayInfoSys\Utility Library\BroadwayInfoSys.Utility\obj\Debug\netcoreapp3.1\BroadwayInfoSys.Utility.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\BroadwayInfoSys\Utility Library\BroadwayInfoSys.Utility\obj\Debug\netcoreapp3.1\BroadwayInfoSys.Utility.csproj.CopyComplete
+C:\Users\Dell\Desktop\BroadwayInfoSys\Utility Library\BroadwayInfoSys.Utility\obj\Debug\netcoreapp3.1\BroadwayInfoSys.Utility.dll
+C:\Users\Dell\Desktop\BroadwayInfoSys\Utility Library\BroadwayInfoSys.Utility\obj\Debug\netcoreapp3.1\BroadwayInfoSys.Utility.pdb
+C:\Users\Dell\Desktop\Broadway-Info-API\Utility Library\BroadwayInfoSys.Utility\bin\Debug\netcoreapp3.1\BroadwayInfoSys.Utility.deps.json
+C:\Users\Dell\Desktop\Broadway-Info-API\Utility Library\BroadwayInfoSys.Utility\bin\Debug\netcoreapp3.1\BroadwayInfoSys.Utility.dll
+C:\Users\Dell\Desktop\Broadway-Info-API\Utility Library\BroadwayInfoSys.Utility\bin\Debug\netcoreapp3.1\BroadwayInfoSys.Utility.pdb
+C:\Users\Dell\Desktop\Broadway-Info-API\Utility Library\BroadwayInfoSys.Utility\bin\Debug\netcoreapp3.1\BroadwayInfoSys.Domain.dll
+C:\Users\Dell\Desktop\Broadway-Info-API\Utility Library\BroadwayInfoSys.Utility\bin\Debug\netcoreapp3.1\BroadwayInfoSys.Domain.pdb
+C:\Users\Dell\Desktop\Broadway-Info-API\Utility Library\BroadwayInfoSys.Utility\obj\Debug\netcoreapp3.1\BroadwayInfoSys.Utility.csprojAssemblyReference.cache
+C:\Users\Dell\Desktop\Broadway-Info-API\Utility Library\BroadwayInfoSys.Utility\obj\Debug\netcoreapp3.1\BroadwayInfoSys.Utility.AssemblyInfoInputs.cache
+C:\Users\Dell\Desktop\Broadway-Info-API\Utility Library\BroadwayInfoSys.Utility\obj\Debug\netcoreapp3.1\BroadwayInfoSys.Utility.AssemblyInfo.cs
+C:\Users\Dell\Desktop\Broadway-Info-API\Utility Library\BroadwayInfoSys.Utility\obj\Debug\netcoreapp3.1\BroadwayInfoSys.Utility.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\Broadway-Info-API\Utility Library\BroadwayInfoSys.Utility\obj\Debug\netcoreapp3.1\BroadwayInfoSys.Utility.csproj.CopyComplete
+C:\Users\Dell\Desktop\Broadway-Info-API\Utility Library\BroadwayInfoSys.Utility\obj\Debug\netcoreapp3.1\BroadwayInfoSys.Utility.dll
+C:\Users\Dell\Desktop\Broadway-Info-API\Utility Library\BroadwayInfoSys.Utility\obj\Debug\netcoreapp3.1\BroadwayInfoSys.Utility.pdb

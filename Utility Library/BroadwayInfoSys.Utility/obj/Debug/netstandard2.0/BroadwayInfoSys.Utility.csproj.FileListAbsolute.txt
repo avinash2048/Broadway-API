@@ -1,0 +1,4 @@
+C:\Avinash Working Folder\BroadwayInfoSys\Utility Library\BroadwayInfoSys.Utility\obj\Debug\netstandard2.0\BroadwayInfoSys.Utility.csprojAssemblyReference.cache
+C:\Avinash Working Folder\BroadwayInfoSys\Utility Library\BroadwayInfoSys.Utility\obj\Debug\netstandard2.0\BroadwayInfoSys.Utility.AssemblyInfoInputs.cache
+C:\Avinash Working Folder\BroadwayInfoSys\Utility Library\BroadwayInfoSys.Utility\obj\Debug\netstandard2.0\BroadwayInfoSys.Utility.AssemblyInfo.cs
+C:\Avinash Working Folder\BroadwayInfoSys\Utility Library\BroadwayInfoSys.Utility\obj\Debug\netstandard2.0\BroadwayInfoSys.Utility.csproj.CoreCompileInputs.cache

@@ -1,0 +1,24 @@
+C:\Avinash Working Folder\BroadwayInfoSys\Domain Library\BroadwayInfoSys.Domain\bin\Debug\netcoreapp3.1\BroadwayInfoSys.Domain.deps.json
+C:\Avinash Working Folder\BroadwayInfoSys\Domain Library\BroadwayInfoSys.Domain\bin\Debug\netcoreapp3.1\BroadwayInfoSys.Domain.dll
+C:\Avinash Working Folder\BroadwayInfoSys\Domain Library\BroadwayInfoSys.Domain\bin\Debug\netcoreapp3.1\BroadwayInfoSys.Domain.pdb
+C:\Avinash Working Folder\BroadwayInfoSys\Domain Library\BroadwayInfoSys.Domain\obj\Debug\netcoreapp3.1\BroadwayInfoSys.Domain.AssemblyInfoInputs.cache
+C:\Avinash Working Folder\BroadwayInfoSys\Domain Library\BroadwayInfoSys.Domain\obj\Debug\netcoreapp3.1\BroadwayInfoSys.Domain.AssemblyInfo.cs
+C:\Avinash Working Folder\BroadwayInfoSys\Domain Library\BroadwayInfoSys.Domain\obj\Debug\netcoreapp3.1\BroadwayInfoSys.Domain.csproj.CoreCompileInputs.cache
+C:\Avinash Working Folder\BroadwayInfoSys\Domain Library\BroadwayInfoSys.Domain\obj\Debug\netcoreapp3.1\BroadwayInfoSys.Domain.dll
+C:\Avinash Working Folder\BroadwayInfoSys\Domain Library\BroadwayInfoSys.Domain\obj\Debug\netcoreapp3.1\BroadwayInfoSys.Domain.pdb
+C:\Avinash Working Folder\BroadwayInfoSys\Domain Library\BroadwayInfoSys.Domain\bin\Debug\netcoreapp3.1\BroadwayInfoSys.Domain.runtimeconfig.json
+C:\Avinash Working Folder\BroadwayInfoSys\Domain Library\BroadwayInfoSys.Domain\bin\Debug\netcoreapp3.1\BroadwayInfoSys.Domain.runtimeconfig.dev.json
+C:\Avinash Working Folder\BroadwayInfoSys\Domain Library\BroadwayInfoSys.Domain\obj\Debug\netcoreapp3.1\BroadwayInfoSys.Domain.csprojAssemblyReference.cache
+C:\Avinash Working Folder\BroadwayInfoSys\Domain Library\BroadwayInfoSys.Domain\obj\Debug\netcoreapp3.1\BroadwayInfoSys.Domain.genruntimeconfig.cache
+C:\Users\Dell\Desktop\BroadwayInfoSys\Domain Library\BroadwayInfoSys.Domain\bin\Debug\netcoreapp3.1\BroadwayInfoSys.Domain.deps.json
+C:\Users\Dell\Desktop\BroadwayInfoSys\Domain Library\BroadwayInfoSys.Domain\bin\Debug\netcoreapp3.1\BroadwayInfoSys.Domain.runtimeconfig.json
+C:\Users\Dell\Desktop\BroadwayInfoSys\Domain Library\BroadwayInfoSys.Domain\bin\Debug\netcoreapp3.1\BroadwayInfoSys.Domain.runtimeconfig.dev.json
+C:\Users\Dell\Desktop\BroadwayInfoSys\Domain Library\BroadwayInfoSys.Domain\bin\Debug\netcoreapp3.1\BroadwayInfoSys.Domain.dll
+C:\Users\Dell\Desktop\BroadwayInfoSys\Domain Library\BroadwayInfoSys.Domain\bin\Debug\netcoreapp3.1\BroadwayInfoSys.Domain.pdb
+C:\Users\Dell\Desktop\BroadwayInfoSys\Domain Library\BroadwayInfoSys.Domain\obj\Debug\netcoreapp3.1\BroadwayInfoSys.Domain.csprojAssemblyReference.cache
+C:\Users\Dell\Desktop\BroadwayInfoSys\Domain Library\BroadwayInfoSys.Domain\obj\Debug\netcoreapp3.1\BroadwayInfoSys.Domain.AssemblyInfoInputs.cache
+C:\Users\Dell\Desktop\BroadwayInfoSys\Domain Library\BroadwayInfoSys.Domain\obj\Debug\netcoreapp3.1\BroadwayInfoSys.Domain.AssemblyInfo.cs
+C:\Users\Dell\Desktop\BroadwayInfoSys\Domain Library\BroadwayInfoSys.Domain\obj\Debug\netcoreapp3.1\BroadwayInfoSys.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\BroadwayInfoSys\Domain Library\BroadwayInfoSys.Domain\obj\Debug\netcoreapp3.1\BroadwayInfoSys.Domain.dll
+C:\Users\Dell\Desktop\BroadwayInfoSys\Domain Library\BroadwayInfoSys.Domain\obj\Debug\netcoreapp3.1\BroadwayInfoSys.Domain.pdb
+C:\Users\Dell\Desktop\BroadwayInfoSys\Domain Library\BroadwayInfoSys.Domain\obj\Debug\netcoreapp3.1\BroadwayInfoSys.Domain.genruntimeconfig.cache
